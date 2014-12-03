@@ -20,7 +20,11 @@ import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.view.animation.ScaleAnimation;
-
+/**
+ * ª∂”≠ΩÁ√Ê:∂Øª≠.
+ * @author uaige
+ *
+ */
 public class WelcomeActivity extends Activity implements AnimationListener{
 	private NetworkImageView  imgStart;
 	private RequestQueue mQueue;
